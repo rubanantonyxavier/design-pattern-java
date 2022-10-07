@@ -11,3 +11,8 @@ public class MainClass {
         subject.removeObserver(observer);
     }
 }
+
+/*
+We have Publisher (as Subject) & Subscriber (as Observer)
+Any update in Publisher should be notified to all the Subscriber using Observer Design Pattern
+ */
