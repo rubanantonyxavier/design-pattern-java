@@ -1,4 +1,4 @@
-package decorator.page;
+package decorator.widgets.page;
 
 public interface PageFormat {
 

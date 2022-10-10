@@ -1,8 +1,8 @@
-package decorator;
+package decorator.widgets;
 
-import decorator.page.DesktopVersionPage;
-import decorator.page.MobileVersionPage;
-import decorator.widget.*;
+import decorator.widgets.page.DesktopVersionPage;
+import decorator.widgets.page.MobileVersionPage;
+import decorator.widgets.widget.*;
 
 public class MainClass {
     public static void main(String[] args) {

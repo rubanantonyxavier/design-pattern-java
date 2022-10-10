@@ -1,6 +1,6 @@
-package decorator.widget;
+package decorator.widgets.widget;
 
-import decorator.page.PageFormat;
+import decorator.widgets.page.PageFormat;
 
 public class NoWidget implements Widgets {
     int rank = 0;
