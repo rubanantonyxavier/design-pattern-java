@@ -1,5 +1,9 @@
 package factory;
 
+import factory.base.BaseDriverFactory;
+import factory.capabilities.CapabilitiesDriverFactory;
+import factory.enums.BrowserType;
+import factory.normal.NormalDriverFactory;
 import org.openqa.selenium.WebDriver;
 
 public class MainClass {
