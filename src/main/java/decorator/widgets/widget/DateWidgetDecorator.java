@@ -1,4 +1,4 @@
-package decorator.widget;
+package decorator.widgets.widget;
 
 public class DateWidgetDecorator extends WidgetDecorator {
 
